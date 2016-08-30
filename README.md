@@ -16,4 +16,4 @@
 
 ## Diagrama de flujo
 
-![Sin titulo](http://i66.tinypic.com/iwj3pi.png)
+![Sin titulo](http://i66.tinypic.com/3tv7t.png)
