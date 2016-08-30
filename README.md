@@ -12,3 +12,8 @@
 5. Ingresar segundo número
 4. Mostrar respuesta
 5. Fin.
+
+
+## Diagrama de flujo
+
+![Sin titulo](http://i66.tinypic.com/iwj3pi.png)
